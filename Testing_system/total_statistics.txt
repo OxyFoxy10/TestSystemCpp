@@ -1,0 +1,12 @@
+user1 John Snow 984005435
+Marks:
+Chemistry | 4
+English | 2
+Current percent of correct answers: 
+Chemistry | 40
+English | 20
+user3 Ilona Mask 97970108
+Marks:
+English | 12
+Current percent of correct answers: 
+English | 100
